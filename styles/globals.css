@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+
+        @tailwind base; @tailwind components; @tailwind utilities; html, body { padding: 0; margin: 0; font-family:
+        -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica
+        Neue, sans-serif; } a { color: inherit; text-decoration: none; } * { box-sizing: border-box; } .nigeria-flag-bg
+        { background: linear-gradient(to bottom, #008751 0%, #008751 33%, #ffffff 33%, #ffffff 67%, #008751 67%, #008751
+        100%); } .loading-spinner { border: 4px solid #f3f3f3; border-top: 4px solid #008751; border-radius: 50%; width:
+        40px; height: 40px; animation: spin 2s linear infinite; } @keyframes spin { 0% { transform: rotate(0deg); } 100%
+        { transform: rotate(360deg); } }
+=======
+
+        @tailwind base; @tailwind components; @tailwind utilities; html, body { padding: 0; margin: 0; font-family:
+        -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica
+        Neue, sans-serif; } a { color: inherit; text-decoration: none; } * { box-sizing: border-box; } .nigeria-flag-bg
+        { background: linear-gradient(to bottom, #008751 0%, #008751 33%, #ffffff 33%, #ffffff 67%, #008751 67%, #008751
+        100%); } .loading-spinner { border: 4px solid #f3f3f3; border-top: 4px solid #008751; border-radius: 50%; width:
+        40px; height: 40px; animation: spin 2s linear infinite; } @keyframes spin { 0% { transform: rotate(0deg); } 100%
+        { transform: rotate(360deg); } }
+>>>>>>> b1175ce (Fix package.json typo)
+      
